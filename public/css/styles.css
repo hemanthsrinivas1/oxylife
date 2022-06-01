@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
 nav{
     z-index: 999;
     width: 100% !important;
@@ -36,7 +39,7 @@ nav{
     text-align: center;
 }
 .main-heading{
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
     padding: 20px;
     font-size: 7em;
     color:darkred;
@@ -79,7 +82,7 @@ nav{
 {
     padding-bottom: 15px;
     font-size: 3em;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
     color: darkblue;
 }
 .middle-1{
